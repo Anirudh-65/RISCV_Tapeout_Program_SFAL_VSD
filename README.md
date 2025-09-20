@@ -1,13 +1,15 @@
-# RISCV Tapeout Program SFAL VSD
+# RISCV Tapeout Program SFAL VSD (2025)
 
 <details>
-	<summary>Day 0 - Tools Installation </summary>
+	<summary>Week 0 </summary>
 	
-# Week 0 - Tools Installation
+# Task - 1
 ```
-
-Task - 1: Uploaded a summary of the lecture shared in week 0 assignment.
-Task - 2: Firstly set up the Oracle Virtual Box and then Ubuntu. Finally, in Ubuntu made the installations of the following Tools:
+Uploaded a summary of the lecture shared in week 0 assignment. Location is Week 0 folder.
+```
+# Task - 2
+ ```
+Firstly set up the Oracle Virtual Box and then Ubuntu. Finally, in Ubuntu made the installations of the following Tools:
 
 1. Yosys
 2. Iverilog
@@ -16,5 +18,15 @@ Task - 2: Firstly set up the Oracle Virtual Box and then Ubuntu. Finally, in Ubu
 5. magic
 6. OpenLANE
 
+As deliverables of this task, the week 0 folder contains the screenshots of installations.
+
 ```
 </details>
+
+# Author
+
+Anirudh Mittal
+B.Tech. in Electrical Engineering
+Indian Institute of Technology Gandhinagar
+2023 -2027
+Contact - anirudh.mittal@iitgn.ac.in
