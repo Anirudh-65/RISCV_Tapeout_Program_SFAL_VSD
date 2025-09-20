@@ -1,2 +1,20 @@
-# RISCV_Tapeout_Program_SFAL_VSD
-This repository is created under the RISC-V Reference SoC Program.
+# RISCV Tapeout Program SFAL VSD
+
+<details>
+	<summary>Day 0 - Tools Installation </summary>
+	
+# Day 0 - Tools Installation
+## Yosys
+```
+Attached below are the screenshots os its succesfull installation.
+
+
+
+## Iverilog
+```
+Attached below are the screenshots os its succesfull installation.
+
+## GTKWave
+```
+Attached below are the screenshots os its succesfull installation.
+</details>
