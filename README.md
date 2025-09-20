@@ -9,12 +9,13 @@
 Attached below are the screenshots os its succesfull installation.
 
 
-
+```
 ## Iverilog
 ```
 Attached below are the screenshots os its succesfull installation.
-
+```
 ## GTKWave
 ```
 Attached below are the screenshots os its succesfull installation.
+```
 </details>
