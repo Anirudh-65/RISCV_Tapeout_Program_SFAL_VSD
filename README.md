@@ -3,11 +3,11 @@
 <details>
 	<summary>Week 0 </summary>
 	
-# Task - 1
+## Task - 1
 ```
-Uploaded a summary of the lecture shared in week 0 assignment. Location is Week 0 folder.
+Uploaded a summary of the lecture shared in Week 0 assignment. Location is Week 0 folder.
 ```
-# Task - 2
+## Task - 2
  ```
 Firstly set up the Oracle Virtual Box and then Ubuntu. Finally, in Ubuntu made the installations of the following Tools:
 
@@ -18,15 +18,15 @@ Firstly set up the Oracle Virtual Box and then Ubuntu. Finally, in Ubuntu made t
 5. magic
 6. OpenLANE
 
-As deliverables of this task, the week 0 folder contains the screenshots of installations.
+As deliverables of this task, the Week 0 folder contains the screenshots of installations.
 
 ```
 </details>
 
-# Author
+## Author
 
-Anirudh Mittal
-B.Tech. in Electrical Engineering
-Indian Institute of Technology Gandhinagar
-2023 -2027
-Contact - anirudh.mittal@iitgn.ac.in
+**Anirudh Mittal**  
+B.Tech Electrical Engineering  
+Indian Institute of Technology Gandhinagar  
+anirudh.mittal@iitgn.ac.in
+
